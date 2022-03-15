@@ -1,0 +1,2 @@
+#READ 
+#This is a project i am doing for school about git and github. It have taken me quite some time but i feel like i now kinda understand how i use it. 
